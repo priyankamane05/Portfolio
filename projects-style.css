@@ -1,0 +1,32 @@
+body {
+  justify-content: center;
+}
+.UI-img {
+  margin-top: 2%;
+}
+ul {
+  list-style-type: none;
+}
+li {
+      text-decoration: none;
+    }
+p {
+      color: #7F8487;
+    }
+h3 {
+      color: grey;
+      font-size: 1.5rem;
+      cursor: pointer;
+    }
+a {
+  text-decoration: none;
+
+}
+.nav-link  {
+  color: #FF5B00;
+  font-weight: bold;
+}
+.com-img {
+  margin-top: 10%;
+  margin-bottom: 10%;
+}
